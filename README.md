@@ -1,7 +1,15 @@
 ## Hi there 👋
 
-# 💫 About Me:
-🔭 I'm currently working on Diving deep into DevOps & Cloud Automation principles.<br>🤝 I'm looking to collaborate on Cloud-focused Graduation Projects and Internship Opportunities in DevOps.<br>💛 I'm looking for help with Advanced roadmaps for Cloud Certifications (e.g., AWS, Azure).<br>🌱 I'm currently learning Infrastructure as Code (IaC), CI/CD pipelines, and enhancing my Soft Skills.<br>💬 Ask me about Telecommunication Networks, DevOps Tools, or the latest Football matches.<br>⚡ My technical journey started with C/C++ and MATLAB.
+# 🔭 About Me:
+
+* 🎓 **Education:** Final-year Communications & Electronics Engineering student at Beni-Suef University.
+* 🇪🇬 **Initiatives:** Participant in Digital Egypt Pioneers Initiative (**DEPI**) - Cloud & DevOps Track.
+* ☁️ **Focus:** Cloud & DevOps Engineering, specialized in AWS Infrastructure and Containerization.
+* 📜 **Certifications:** AWS Certified Cloud Practitioner (CLF-C02) | NTI Cloud Computing (120 Hours).
+* 🛠️ **Hands-on Experience:** Building CI/CD pipelines, IaC with Terraform, Kubernetes clusters, and Docker deployments.
+* 🤝 **Looking to collaborate on:** DevOps graduation projects, open-source initiatives, and Cloud internships.
+* 💬 **Ask me about:** AWS Services (VPC, EKS, RDS), Docker, Jenkins, Terraform, or Football ⚽.
+
 
 
 ## 🌐 Socials:
